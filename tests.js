@@ -1,4 +1,4 @@
-
+// main test
 describe('maxOfThree', function () {
     it('Expected output of maxOfThree(5,4,44) is 44', function () {
       assert.equal( maxOfThree(5, 4, 44), 44);
